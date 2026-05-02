@@ -1,0 +1,11 @@
+# Security & Privacy
+face_data/
+serviceAccountKey.json
+votes.txt
+.env
+out.mp3
+
+# Python/Environment
+__pycache__/
+venv/
+*.py[cod]
